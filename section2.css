@@ -1,0 +1,84 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+    width: 100%;
+    justify-content:space-around;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    align-items: center;
+    background-color: white;
+}
+.flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+height: 100px;
+
+}
+.search-icon{
+    height: 20px;
+    margin-left: 0px;
+}
+.noti,.create-icon{
+    height: 35px;
+    margin-right: 9px;
+    border-radius: 40px;
+}
+.search-bar{
+    height: 45px;
+    width: 650px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-color: grey;
+}
+.account{
+height: 35px;
+background-color: orange;
+border: none;
+padding: 10px;
+border-radius: 40px;
+font-size: large;
+margin-top: 50px;
+}
+.search-button{
+    height: 45px;
+    margin-left: -5px; 
+    width: 70px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-color: grey;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+.middle-section{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.voice-button{
+    height: 45px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 100px;
+    border-color: gray;
+    align-items: center;
+    margin-top: 50px;
+}
+.voice-keyboard{
+    border-radius: 30px;
+    height: 35px;
+}
+.vertical{
+    position:fixed;
+    left: 0px;
+    top: 0px;
+    bottom:0px;
+    background-color: white;
+    right: 1415px;
+}

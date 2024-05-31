@@ -1,0 +1,49 @@
+.set{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    max-width: 100%;
+    column-gap: 20px;
+    row-gap: 150px;
+}
+.box{
+    display: grid;
+    grid-template-rows:1fr 30px  ;
+    max-width: 100%;
+    column-gap: 10px;
+}
+.log_desc{
+    display: grid;
+    grid-template-columns:40px 1fr;
+    max-width: 100%;
+    justify-content: center;
+}
+.desc{
+    font-size: large;
+    font-style: italic;
+    font-weight: 800;
+    margin: 0px;
+    max-height: 100%;
+    width: 100%;
+    margin-bottom: 25px;
+    overflow: hidden;
+    margin-left: 5px;
+}
+.log01{
+    height: 40px;
+}
+.grid{
+    grid-template-rows: 1fr 1fr 1fr;
+}
+.channel-info{
+    color: rgb(99, 96, 96);
+    margin-top: 10px;
+}
+.views{
+    color: rgb(99, 96, 96);
+    margin-top: 10px;
+}
+.img1{
+    height: 180px;
+    border-radius: 12px;
+}
+
