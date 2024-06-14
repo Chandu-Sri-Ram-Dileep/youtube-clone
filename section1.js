@@ -30,7 +30,7 @@ const datas=[
         thumbnail:"https://i.ytimg.com/vi/tBPBfBdpMDc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyFP7QbvavsbfdkrylaYw80P27nQ",
         logo:"https://yt3.ggpht.com/oQ2NQMuq-9IS6_MZdsGXa0RWecaACremA01Z7jo-YpoEF1H6PyUF8PZzXkV10OYwSP3UMJDeTg=s68-c-k-c0x00ffffff-no-rj",
         information:"The Narendra Modi Files |A Dictator Mentality|Dhruv Rathee",
-        channel:" |Dhruv Rathee &#10004;",
+        channel:"|Dhruv Rathee &#10004;",
         views:"2M &#x2022; views",
         time:"29:38",
         video:"https://youtu.be/tBPBfBdpMDc?si=q6Wvw_Ntwd8WUHDq"
@@ -48,7 +48,7 @@ const datas=[
         thumbnail:"https://i.ytimg.com/vi/MV916GQvT7A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfj-dvltANtXB8BXdAiz3N8gtxJQ",
         logo:"https://yt3.ggpht.com/W9ySfNFEzjhBPkGKB7VCjxPhtOz8uT4k0OFij6Du8E4JzcE_Xp9knl75HlBGFKB8LUvdvEQVPA=s68-c-k-c0x00ffffff-no-rj",
         information:"Lec 13:wide characters(w-chart) Data types in C++",
-        channel:" |Jenny's lecture &#10004;",
+        channel:"|Jenny's lecture &#10004;",
         views:"1050K &#x2022; views",
         time: "15:31",
         video:"https://youtu.be/MV916GQvT7A?si=u1hqtlxD0j7p2muf"
@@ -57,7 +57,7 @@ const datas=[
         thumbnail:"https://i.ytimg.com/vi/W4L-0_BvNYo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHWgaaO8Or2exuVsObFOZyKJUd7w",
         logo:"https://yt3.ggpht.com/nfd3pk6hJ7y01J6rR8_593s54BYg_O0JUuSoRK5f-3fmDtwHQOjbz_yWYo6unphgqjyvhCik=s68-c-k-c0x00ffffff-no-rj",
         information:"Epic final momentum of Kung fu Panda 4",
-        channel:"  |Botic &#10004;",
+        channel:"|Botic &#10004;",
         views:"5K &#x2022; views" ,
         time: "8:27",
         video:"https://youtu.be/mmPD9H_oXn8?si=wMfH8ZuNu7mdvrMx"
