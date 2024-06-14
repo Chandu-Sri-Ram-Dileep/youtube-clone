@@ -1,0 +1,50 @@
+.box2{
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    margin-left: 10px;
+    column-gap: 15px;
+    row-gap: 10px;
+}
+
+.desc3{
+    width: 280px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+  margin-bottom: 8px;
+  overflow: hidden;
+  height: 60px;
+
+}
+.views2{
+    width: 140px;
+    margin-left: 18px;
+}
+.img2{
+    height: 120px;
+    width: 140px;
+    position: static;
+}
+.grid2{
+    height: 100px;
+}
+.arr{
+    display: block;
+    
+}
+.channel-info3{
+    width: 150px;
+    vertical-align: top;
+    margin-left: 20px;
+    height: 20px;
+}
+.time2{
+    position: relative;
+    bottom:23px;
+    left: 0px;
+    background-color: black;
+    width: 40px;
+    color: white;
+    left: 100px;
+    text-align: center;
+
+}
