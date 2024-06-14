@@ -48,7 +48,7 @@ const datas=[
         thumbnail:"https://i.ytimg.com/vi/MV916GQvT7A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfj-dvltANtXB8BXdAiz3N8gtxJQ",
         logo:"https://yt3.ggpht.com/W9ySfNFEzjhBPkGKB7VCjxPhtOz8uT4k0OFij6Du8E4JzcE_Xp9knl75HlBGFKB8LUvdvEQVPA=s68-c-k-c0x00ffffff-no-rj",
         information:"Lec 13:wide characters(w-chart) Data types in C++",
-        channel:" |Jenny's Lecture &#10004;",
+        channel:" |Jenny's lecture &#10004;",
         views:"1050K &#x2022; views",
         time: "15:31",
         video:"https://youtu.be/MV916GQvT7A?si=u1hqtlxD0j7p2muf"
@@ -75,7 +75,7 @@ const datas=[
         thumbnail:"https://i.ytimg.com/vi/lyXvpwveJDk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-wUgv4PJnZhYbzMI1NsR6DOZljg",
         logo:"https://yt3.ggpht.com/BA5Jw_FL4QFebmVbBCTa0iMsWTDBrEQFCJwXUresYlYqHPwVHjHxbfl7-n_q6cXToXxLbbYg=s68-c-k-c0x00ffffff-no-rj",
         information:"Highlights Barcelona 6-5 Paris Saint-Germain(Greatest Match of ever time)",
-        channel:"|HL MATCH",
+        channel:"|HL MATCH &#10004;",
         views:"1.2M &#x2022; views" ,
         time:"18:07",
         video:"https://youtu.be/lyXvpwveJDk?si=-Dpc3Mp1g6bnLjm4"
@@ -84,7 +84,7 @@ const datas=[
         thumbnail:"https://i.ytimg.com/vi/QWNye6D43Ys/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2bPymEj6clBS0QI7ysbTs-uoYEA",
         logo:"https://yt3.ggpht.com/ytc/AIdro_mqLZgio6S4MJBEEABW9VzezGwibvmm6MyOKzhCgmkM-g=s68-c-k-c0x00ffffff-no-rj",
         information:"Can Magnus Carlsen Squeeze Pragnanandha?|Norway Chess",
-        channel:"|Chess Base India",
+        channel:"|Chess Base India &#10004;",
         views:"35k &#x2022; views" ,
         time:"22:27",
         video:"https://youtu.be/QWNye6D43Ys?si=WgOwx4yFFU5qkI7x"
@@ -102,7 +102,7 @@ const datas=[
         thumbnail:"https://i.ytimg.com/vi/E4LS63Zmaw4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDZDOFBOyl8zT2caTRHXR9bdds5fg",
         logo:"https://yt3.ggpht.com/W9ySfNFEzjhBPkGKB7VCjxPhtOz8uT4k0OFij6Du8E4JzcE_Xp9knl75HlBGFKB8LUvdvEQVPA=s68-c-k-c0x00ffffff-no-rj",
         information:"infinite loop in C++|C++ tutorials for beginners #lec39",
-        channel:"|jenny's lecture &#10004;",
+        channel:"|Jenny's lecture &#10004;",
         views:"6.2k  &#x2022; views",
         time:"10:54",
         video:"https://youtu.be/E4LS63Zmaw4?si=8NsMQo-LffDlPQOl"
@@ -111,7 +111,7 @@ const datas=[
         thumbnail:"https://i.ytimg.com/vi/cv21ClWiWi8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgxhfklDKh9KRbxrZyhnDE50CjAw",
         logo:"https://yt3.ggpht.com/nfd3pk6hJ7y01J6rR8_593s54BYg_O0JUuSoRK5f-3fmDtwHQOjbz_yWYo6unphgqjyvhCik=s68-c-k-c0x00ffffff-no-rj",
         information:"All the best Warriors in kung fu panada(best scenes)4",
-        channel:"|Botic&#10004;",
+        channel:"|Botic &#10004;",
         views:"2.9M  &#x2022; views",
         time:"26:44",
         video:"https://youtu.be/cv21ClWiWi8?si=ofNaSd4qqxHzEwZH"
