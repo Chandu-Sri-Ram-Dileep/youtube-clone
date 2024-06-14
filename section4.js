@@ -1,7 +1,7 @@
 let html2 = '';
         datas.forEach((data,index) => {
             html2 += `
-                <div class="box2">
+                <div class="box2" onclick="my(${index})">
                     <div class="mini">
                         <img class="img2" src="${data.thumbnail}">
                         <div class="time2">${data.time}</div>
@@ -15,3 +15,7 @@ let html2 = '';
             `;
         });
         document.querySelector('.arr').innerHTML = html2;
+        function my(index){
+            localStorage.setItem('videoData', JSON.stringify(datas[index]));
+            window.location.href = "section2.html";  
+         }
