@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     max-width: 100%;
-    column-gap: 20px;
+    column-gap: 10px;
     row-gap: 150px;
 }
 .box{
@@ -37,6 +37,7 @@
 .channel-info{
     color: rgb(99, 96, 96);
     margin-top: 10px;
+    font-family:Arial, Helvetica, sans-serif;
 }
 .views{
     color: rgb(99, 96, 96);
@@ -45,5 +46,20 @@
 .img1{
     height: 180px;
     border-radius: 12px;
+}
+.time{
+    text-align: center;
+    height: 17px;
+    width: 39px;
+    position: relative;
+    bottom: 25px;
+    left:277px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 2px;
+}
+.video-play{
+    margin: 0px 0px 0px 0px;
+    position: static;
 }
 
