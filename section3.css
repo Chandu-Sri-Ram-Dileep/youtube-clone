@@ -1,4 +1,4 @@
-button{
+.hi,.gi{
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 0px;
@@ -7,5 +7,5 @@ button{
     background-color: rgb(239, 234, 234);
     border-radius: 6px;
     margin-bottom: 50px;
-     
+    font-family: Arial, Helvetica, sans-serif;
 }
