@@ -6,7 +6,7 @@ const datas=[
     channel:"|VR RAJA &#10004;",
     views:"95K &#x2022; views",
     time:"14:40",
-    video:"https://youtu.be/reURTfW4cRo?si=vnnXvGhclIOWfhSB"
+    video:"https://www.youtube.com/embed/reURTfW4cRo?si=gbhgIxXjd-msXZG7"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/7MbzT8b84ss/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAetT9dWbnvRGZ-ZHl17gQtlmh8mg",
@@ -15,7 +15,7 @@ const datas=[
         channel:"|Chess Base India &#10004;",
         views:" 80K &#x2022; views",
         time:"11:36",
-        video:"https://youtu.be/7MbzT8b84ss?si=sTEr7vxx8shtRwOq"
+        video:"https://www.youtube.com/embed/7MbzT8b84ss?si=YOWNBEVB0tsVVDci"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/v3pp2EGYB-s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzCxU0zNvm-lkL0tsk3CgiOy0o0w",
@@ -24,7 +24,7 @@ const datas=[
         channel:"|VR RAJA &#10004;",
         views:" 95K &#x2022; views",
         time:"16:08",
-        video:"https://www.youtube.com/results?search_query=rcb+vs+rayudu+controversy+post%7Cipl%7Ctop+10+interesting+facts"
+        video:"https://www.youtube.com/embed/v3pp2EGYB-s?si=yAP0KOHCs0wh8F7ts"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/tBPBfBdpMDc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyFP7QbvavsbfdkrylaYw80P27nQ",
@@ -33,7 +33,7 @@ const datas=[
         channel:" |Dhruv Rathee &#10004;",
         views:"2M &#x2022; views",
         time:"29:38",
-        video:"https://youtu.be/tBPBfBdpMDc?si=q6Wvw_Ntwd8WUHDq"
+        video:"https://www.youtube.com/embed/tBPBfBdpMDc?si=_81vlWx2bj_8vfQX"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/AMxtGWcMYd4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKjQv5qrw18JARN5PECFIzDWxDqw",
@@ -42,7 +42,7 @@ const datas=[
         channel:"|Code With Harry &#10004;",
         views:"951K &#x2022; views",
         time:"8:40",
-        video:"https://youtu.be/AMxtGWcMYd4?si=LXLGTUvORsgvTOX_"
+        video:"https://www.youtube.com/embed/AMxtGWcMYd4?si=uNpAdzXThKQ_gpiZ"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/MV916GQvT7A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfj-dvltANtXB8BXdAiz3N8gtxJQ",
@@ -51,7 +51,7 @@ const datas=[
         channel:" |Jenny's lecture &#10004;",
         views:"1050K &#x2022; views",
         time: "15:31",
-        video:"https://youtu.be/MV916GQvT7A?si=u1hqtlxD0j7p2muf"
+        video:"https://www.youtube.com/embed/MV916GQvT7A?si=lPm8vgsuwo6N02OS"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/W4L-0_BvNYo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHWgaaO8Or2exuVsObFOZyKJUd7w",
@@ -60,7 +60,7 @@ const datas=[
         channel:"  |Botic &#10004;",
         views:"5K &#x2022; views" ,
         time: "8:27",
-        video:"https://youtu.be/mmPD9H_oXn8?si=wMfH8ZuNu7mdvrMx"
+        video:"https://www.youtube.com/embed/mmPD9H_oXn8?si=L9v1d45LfNGvVr9R"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/1yYKcdqUKG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKnCD3Vql9yJAe468a3QCjqFzgaA",
@@ -69,7 +69,7 @@ const datas=[
         channel:"|Chess Base India &#10004;",
         views:"80K &#x2022; views" ,
         time:"25:45",
-        video:"https://youtu.be/1yYKcdqUKG8?si=UMuq1ivC2yt4LJpF"
+        video:"https://www.youtube.com/embed/1yYKcdqUKG8?si=8OtKyBZvPLNWUyEW"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/lyXvpwveJDk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-wUgv4PJnZhYbzMI1NsR6DOZljg",
@@ -87,7 +87,7 @@ const datas=[
         channel:"|Chess Base India &#10004;",
         views:"35k &#x2022; views" ,
         time:"22:27",
-        video:"https://youtu.be/QWNye6D43Ys?si=WgOwx4yFFU5qkI7x"
+        video:"https://www.youtube.com/embed/QWNye6D43Ys?si=djREP1ot04nMB6p5"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/UktwTmt68q4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuKHzAvejUfezJ21ePPQ_lg5jhkg",
@@ -96,7 +96,7 @@ const datas=[
         channel:"|Dhruv Rathee &#10004;",
         views:"10M  &#x2022; views",
         time:"17:36",
-        video:"https://youtu.be/UktwTmt68q4?si=gEbpTKmRcS61Th5g"
+        video:"https://www.youtube.com/embed/UktwTmt68q4?si=9WxY8V-9-EMYOGGj"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/E4LS63Zmaw4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDZDOFBOyl8zT2caTRHXR9bdds5fg",
@@ -105,7 +105,7 @@ const datas=[
         channel:"|Jenny's lecture &#10004;",
         views:"6.2k  &#x2022; views",
         time:"10:54",
-        video:"https://youtu.be/E4LS63Zmaw4?si=8NsMQo-LffDlPQOl"
+        video:"https://www.youtube.com/embed/E4LS63Zmaw4?si=1QoT2MRa4PCzEpNH"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/cv21ClWiWi8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgxhfklDKh9KRbxrZyhnDE50CjAw",
@@ -114,7 +114,7 @@ const datas=[
         channel:"|Botic &#10004;",
         views:"2.9M  &#x2022; views",
         time:"26:44",
-        video:"https://youtu.be/cv21ClWiWi8?si=ofNaSd4qqxHzEwZH"
+        video:"https://www.youtube.com/embed/cv21ClWiWi8?si=FhYt5Utzb0HBVKI2"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/eFgoK4GRqiw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb3gFFSfn3wr5cIOHOxCwr3wT_RQ",
@@ -123,7 +123,7 @@ const datas=[
         channel:"|Code With Harry &#10004;",
         views:"36k  &#x2022; views",
         time:"28:45",
-        video:"https://youtu.be/eFgoK4GRqiw?si=DgyO4JqeJu20u_Oe"
+        video:"https://www.youtube.com/embed/eFgoK4GRqiw?si=f74OMvBZGylEWKWA"
     },
     {
         thumbnail:"https://i.ytimg.com/vi/YAXEIfxp8nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPbrxfUXvfWGI7TZexVwbh0xOb_g",
@@ -132,6 +132,6 @@ const datas=[
         channel:"|HL MATCH &#10004;",
         views:"2.4k  &#x2022; views",
         time:"16:40",
-        video:"https://youtu.be/PqCxa4RAQjI?si=g1qk_1HtXYue_kPV"
+        video:"https://www.youtube.com/embed/PqCxa4RAQjI?si=Ee7NNvTJ-zXLjRVx"
     }
 ];
